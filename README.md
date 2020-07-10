@@ -1,6 +1,6 @@
-# chat_app
+# Huddle
 
-A new Flutter application.
+The official Huddle application, written in Flutter
 
 ## Getting Started
 
